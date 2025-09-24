@@ -672,7 +672,7 @@ const App = () => {
           TaskSync — Solusi Manajemen Tugas & Produktivitas
         </p>
         <p className="text-sm">
-          @2024 By Moh Nur Huda
+          @2025 By Moh Nur Huda
         </p>
       </footer>
 
